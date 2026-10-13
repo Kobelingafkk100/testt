@@ -1,0 +1,7 @@
+#Hacer un programa (01.circulo.py) que pida el radio e imprima el área del correspondiente círculo
+
+radio=int (input("Dame una radio:"))
+pi=int(input("Dame un pi:))
+area=pi*radio
+print("El área es:",area)  
+print(f"El area es:{area}")
